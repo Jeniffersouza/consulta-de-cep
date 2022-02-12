@@ -65,3 +65,14 @@ p {
     font-size: 1.1rem;
     margin: 0.6rem 0;
 }
+p, a{
+    position: relative;
+    top: 20px;
+    color:  rgb(156, 182, 238);
+    text-decoration: none;
+    text-align: center;
+}
+p:hover{
+
+    text-decoration: underline;
+}
